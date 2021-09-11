@@ -31,7 +31,7 @@ def draw():
         
     else:
         vertical_position = map(second(), 0, 59, 0, height)
-[9:33 p. m., 10/9/2021] Sarasss: vertical_position = 0
+ vertical_position = 0
 
 
 def setup():
