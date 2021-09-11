@@ -1,4 +1,4 @@
-[9:32 p. m., 10/9/2021] Sarasss: vertical_position = 0
+vertical_position = 0
 
 
 def setup():
